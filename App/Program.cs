@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using Transaction;
 using Utils;
 
-namespace TelenorApp
+namespace App
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Telenor Rate Calculator!");
+            Console.WriteLine("Welcome to the TeleX Rate Calculator!");
             List<Transaction.Transaction> transactions = new List<Transaction.Transaction>();
             var repeat = true;
             while(repeat) {

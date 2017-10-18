@@ -6,9 +6,9 @@
 */.DS_Store
 
 # Ignore csv example file, docx description and spec files
-TelenorFileInput.csv
-TelenorProjectDescription.docx
-TelenorSpecs.docx
+TeleXFileInput.csv
+TeleXProjectDescription.docx
+TeleXSpecs.docx
 
 # build
 [Oo]bj/
