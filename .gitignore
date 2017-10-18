@@ -1,6 +1,15 @@
 # Autosave files
 *~
 
+# Ignore all .DS_Store files
+.DS_Store
+*/.DS_Store
+
+# Ignore csv example file, docx description and spec files
+TelenorFileInput.csv
+TelenorProjectDescription.docx
+TelenorSpecs.docx
+
 # build
 [Oo]bj/
 [Bb]in/
