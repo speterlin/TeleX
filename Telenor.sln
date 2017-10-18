@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{D86986AB-2ECE-494E-8865-0A4F291ABBF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelenorApp", "TelenorApp\TelenorApp.csproj", "{8823B448-5956-41B0-B1B0-CF9FDC60FCF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transaction", "Transaction\Transaction.csproj", "{531424D3-09F4-4C03-9262-1BD720BB70D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86986AB-2ECE-494E-8865-0A4F291ABBF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86986AB-2ECE-494E-8865-0A4F291ABBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86986AB-2ECE-494E-8865-0A4F291ABBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86986AB-2ECE-494E-8865-0A4F291ABBF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8823B448-5956-41B0-B1B0-CF9FDC60FCF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8823B448-5956-41B0-B1B0-CF9FDC60FCF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8823B448-5956-41B0-B1B0-CF9FDC60FCF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8823B448-5956-41B0-B1B0-CF9FDC60FCF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531424D3-09F4-4C03-9262-1BD720BB70D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531424D3-09F4-4C03-9262-1BD720BB70D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531424D3-09F4-4C03-9262-1BD720BB70D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531424D3-09F4-4C03-9262-1BD720BB70D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
